@@ -26,7 +26,7 @@ const TodoApp = () => {
 
   return (
     <div className="m-40 flex flex-col items-center justify-center gap-6">
-      <div className="flex gap-4 text-xl">
+      <div className="flex gap-8 text-xl">
         <Link to="/">HOME</Link>
         <Link to="/MusicStore">MUSIC STORE</Link>
       </div>
